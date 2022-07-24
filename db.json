@@ -2,8 +2,44 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
-    }
+      "title": "Thayna"
+    },
+    {
+      "id": 2,
+      "title": "Luke"
+    },
+    {
+      "id": 3,
+      "title": "Marty"
+    },
+    {
+      "id": 4,
+      "title": "Jonathan"
+    },
+    {
+      "id": 5,
+      "title": "Renan"
+    },
+    {
+      "id": 6,
+      "title": "Aurora"
+    },
+    {
+      "id": 7,
+      "title": "Manuela"
+    },
+    {
+      "id": 8,
+      "title": "Amanda"
+    },
+    {
+      "id": 9,
+      "title": "Arthur"
+    },
+    {
+      "id": 10,
+      "title": "Igraine"
+    },
   ],
   "profile": {
     "name": "typicode"
